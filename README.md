@@ -4,13 +4,15 @@ Hi 👋 My name is Dmitry Rudnitskikh
 Junior Frontend developer
 -------------------------
 
-I am looking for a job or internship as a Junior Frontend Developer. I am considering remote and office formats, both in the city of Tula and in the surrounding areas. At the moment I am studying at the Hexlet programming school (studying React) as a Frontend Developer. The estimated completion date is April 2024. I strive for constant development and am ready to work in a team to share knowledge and experience with colleagues. I am confident that with my enthusiasm and dedication to quality work, I can become a valuable asset to the company.
+I strive for constant development and am ready to work in a team to share knowledge and experience with colleagues. I am confident that with my enthusiasm and dedication to quality work, I can become a valuable asset to the company.
 
 * 🌍  I'm based in Tula
 * ✉️  You can contact me at [diman777.10@mail.ru](mailto:diman777.10@mail.ru)
 * 🧠  I'm learning Master of Electrical Power Engineering and Electrical Engineering. I'm taking a frontend development course at Hexlet programming school.
-* ⚡  I have always loved learning and have never stopped doing so. Thanks to this quality, I discovered the “world” of programming. I began to develop on the Internet and through books, YouTube and free courses. Programming for me is a hobby that I enjoy spending time with. Doing something you like and earning money at the same time - isn’t that a dream? And I thought so, so I want to develop and improve my skills in order to take part in creating large-scale and useful projects in a team of like-minded people.
+* 🤝  I'm open to collaborating on I am looking for a job or internship as a Junior Frontend Developer. I am considering remote and office formats, both in the city of Tula and in the surrounding areas.
+* ⚡  At the moment I am studying at the Hexlet programming school (studying React) as a Frontend Developer. The estimated completion date is April 2024.
 
+### [MyCV](https://cv.hexlet.io/ru/resumes/3549)
 ### Skills
 
 
@@ -30,13 +32,9 @@ I am looking for a job or internship as a Junior Frontend Developer. I am consid
 <a href="http://www.github.com/DimRux"><img src="https://github-readme-stats.vercel.app/api?username=DimRux&show_icons=true&hide=stars,prs,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DimRux's GitHub stats" /></a>
 
 <b>Top Repositories</b>
-<br />
 
-<div width="100%" align="center"><a href="https://github.com/DimRux/frontend-project-44" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DimRux&repo=frontend-project-11&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div> <br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/DimRux/frontend-project-11" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DimRux&repo=frontend-project-11&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/DimRux/frontend-project-46" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DimRux&repo=frontend-project-46&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br />
 
-<br />
-
-<div width="100%" align="center"><a href="https://github.com/DimRux/frontend-project-44" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DimRux&repo=frontend-project-46&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div> <br /><br /><br /><br /><br /><br />
-<br />
+<br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/DimRux/frontend-project-44" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DimRux&repo=frontend-project-44&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
