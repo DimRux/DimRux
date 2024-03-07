@@ -1,7 +1,7 @@
 Hi 👋 My name is Dmitry Rudnitskikh
 ===================================
 
-Junior Frontend developer
+Frontend developer
 -------------------------
 
 I strive for constant development and am ready to work in a team to share knowledge and experience with colleagues. I am confident that with my enthusiasm and dedication to quality work, I can become a valuable asset to the company.
